@@ -1,0 +1,3 @@
+﻿  Handman.cpp
+D:\Projects\cpp\Handman\Handman.cpp(12,2): warning C4267: "inicjowanie": konwersja z "size_t" do "int", możliwa utrata danych
+  Handman.vcxproj -> D:\Projects\cpp\Handman\x64\Debug\Handman.exe
