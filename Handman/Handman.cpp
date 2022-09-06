@@ -1,7 +1,7 @@
 ﻿#include <iostream>
 using namespace std;
 
-void PrintMessage(string message, bool printTop = true, bool printBottom = true)
+void PrintTitle(string message, bool printTop = true, bool printBottom = true)
 {
 	if (printTop)
 	{
@@ -31,6 +31,6 @@ void PrintMessage(string message, bool printTop = true, bool printBottom = true)
 
 int main()
 {
-	PrintMessage("HANG MAN");
+	PrintTitle("HANG MAN");
 	return 0;
 }
