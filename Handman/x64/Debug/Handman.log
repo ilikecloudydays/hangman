@@ -1,4 +1,0 @@
-﻿  Handman.cpp
-D:\Projects\cpp\Handman\Handman.cpp(20,2): warning C4267: "inicjowanie": konwersja z "size_t" do "int", możliwa utrata danych
-D:\Projects\cpp\Handman\Handman.cpp(167,12): warning C4244: "argument": konwersja z "time_t" do "unsigned int", możliwa utrata danych
-  Handman.vcxproj -> D:\Projects\cpp\Handman\x64\Debug\Handman.exe
